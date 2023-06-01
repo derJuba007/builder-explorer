@@ -1,6 +1,0 @@
-{
-  "modpack": {
-    "identifier": "builder-explorer",
-    "version": "1.0.2"
-  }
-}
